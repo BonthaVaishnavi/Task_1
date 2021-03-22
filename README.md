@@ -2,4 +2,4 @@
 
 
 Rollno=Y19CB011
-Emialid=bonthavaishnavi@gmail.com
+Emailid=bonthavaishnavi@gmail.com
